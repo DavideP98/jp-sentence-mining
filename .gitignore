@@ -1,0 +1,9 @@
+test_data/
+
+pages/
+
+*.swp
+
+__pycache__/
+
+.DS_STORE
